@@ -5,4 +5,4 @@ The training script can be found in the appendix of our paper.
 
 Our paper is accepted but has not yet been published.
 
-The files of personality traits are available on Huggingface: https://huggingface.co/datasets/kirito32767/MLLM-PIEA
+The files of personality traits and best model checkpoint are available on Huggingface: https://huggingface.co/datasets/kirito32767/MLLM-PIEA
